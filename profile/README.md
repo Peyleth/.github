@@ -1,7 +1,11 @@
 <div align="center">
 
 <a href="https://peyleth.com">
-  <img src="https://peyleth.com/elementos/logo-white.webp" alt="Peyleth" width="220"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://peyleth.com/elementos/logo-white.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://peyleth.com/elementos/logo-dark.webp">
+    <img src="https://peyleth.com/elementos/logo-dark.webp" alt="Peyleth" width="220"/>
+  </picture>
 </a>
 
 ### Ayudamos a empresas a escalar con **Software e IA**
