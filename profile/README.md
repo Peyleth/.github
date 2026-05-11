@@ -1,18 +1,18 @@
 # Peyleth
 
-Creamos software a medida e IA para empresas que necesitan escalar operaciones, automatizar procesos y unificar datos.
+Creamos software a medida e IA aplicada para empresas que necesitan escalar operaciones, automatizar procesos y unificar datos.
 
 ## Qué hacemos
 
 - Paneles 360 para dirección y operaciones
 - Automatización de procesos internos
 - Integraciones con ERPs, CRMs, facturación y herramientas de negocio
-- Aplicaciones web a medida
-- IA aplicada a operaciones reales
+- Aplicaciones web a medida para equipos operativos
+- IA aplicada a procesos reales
 
 ## Open source
 
-Compartimos herramientas pequeñas y gratuitas que ayudan a negocios reales.
+Compartimos herramientas pequeñas y gratuitas que resuelven problemas concretos para negocios reales.
 Nuestros proyectos enterprise y desarrollos para clientes son privados por confidencialidad.
 
 ## Contacto
