@@ -180,7 +180,9 @@ Adaptamos el formato a tu estructura:
 
 ## 🌱 Open Source
 
-Aquí compartimos **herramientas pequeñas y útiles** que ayudan a negocios reales: utilidades, scripts y librerías que liberamos de proyectos internos. Nuestros desarrollos enterprise para clientes son privados por confidencialidad — pero todo lo que podemos liberar, lo liberamos. 🚀
+Por confidencialidad, no podemos liberar código ni piezas de nuestros proyectos profesionales o de cliente. En huecos puntuales, a veces publicamos herramientas muy pequeñas, hechas aparte, que no representan el alcance de nuestro trabajo profesional.
+
+Son utilidades sencillas pensadas para ayudar a pequeños negocios, particulares y emprendedores locales con poco conocimiento técnico, o que no pueden costear software de pago, contratar desarrollo a medida ni dedicar horas a buscar en internet o aprender herramientas complejas.
 
 > *Si algo de lo que ves te resulta útil, ⭐ una estrella nos hace el día.*
 
@@ -192,9 +194,9 @@ Aquí compartimos **herramientas pequeñas y útiles** que ayudan a negocios rea
 
 <div align="center">
 
-| 🌐 Web | 📧 Email | 📱 Teléfono | 💬 WhatsApp |
-|:---:|:---:|:---:|:---:|
-| [peyleth.com](https://peyleth.com) | [contacto@peyleth.com](mailto:contacto@peyleth.com) | [+34 684 153 271](tel:+34684153271) | [Escríbenos](https://wa.me/34684153271) |
+| 🌐 Web | 📧 Email | 💬 WhatsApp |
+|:---:|:---:|:---:|
+| [peyleth.com](https://peyleth.com) | [contacto@peyleth.com](mailto:contacto@peyleth.com) | [Escríbenos](https://wa.me/34684153271) |
 
 <br/>
 
